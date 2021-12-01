@@ -104,7 +104,7 @@
   ```
 
 ## OUPUT
-![output](./table.png)
+![output](./result.PNG)
 
 ## RESULT
 ### To display the timetable using html is executed successfully.
