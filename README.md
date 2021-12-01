@@ -96,9 +96,9 @@
   <br><center>4.19MA220-Mathematics for Artificial Intelligence</center></br>
   <br><center>5.19AI303-Engineering Mechanics and Product Development</center></br>
   <br><center>6.19AI302-Engineering Design and Modelling</center></br>
-  <br><center>7.19EY703-System of Numerical and Logical Terminologies</centre></br>
+  <br><center>7.19EY703-System of Numerical and Logical Terminologies</center></br>
   <br><center>8.19AI301-Python Programming</center></br>
-  <br<<center>9.19MC802-Environmental Science</center></br>
+  <br><center>9.19MC802-Environmental Science</center></br>
   </body>
   </html>
   ```
