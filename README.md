@@ -14,12 +14,14 @@
 ### Execute the program
 
 ## CODE
+```
 <!DOCTYPE html>
 <html lang="eng">
 <head>
 <title>Page Title</title>
 </head>
 <body>
+<img src="logo.png"></img>
 <table border=1>
   <tr>
   <th colspan=8>Time Table</th>
@@ -88,11 +90,21 @@
      <td>19AI402/Obedotto</td>
   </tr>
   </table>
+  <br><center>1.19AI401-Fundamentals of Web Technology</center></br>
+  <br><center>2.19MA221-Linear Algebra Laboratory</center></br>
+  <br><center>3.ECA051-AD Mentoring</center></br>
+  <br><center>4.19MA220-Mathematics for Artificial Intelligence</center></br>
+  <br><center>5.19AI303-Engineering Mechanics and Product Development</center></br>
+  <br><center>6.19AI302-Engineering Design and Modelling</center></br>
+  <br><center>7.19EY703-System of Numerical and Logical Terminologies</centre></br>
+  <br><center>8.19AI301-Python Programming</center></br>
+  <br<<center>9.19MC802-Environmental Science</center></br>
   </body>
   </html>
+  ```
 
 ## OUPUT
-![output](./images/table.png)
+![output](./table.png)
 
 ## RESULT
 ### To display the timetable using html is executed successfully.
