@@ -21,7 +21,7 @@
 <title>Page Title</title>
 </head>
 <body>
-<img src="logo.png"></img>
+img src="logo 1.png"
 <table border=1>
   <tr>
   <th colspan=8>Time Table</th>
@@ -104,7 +104,10 @@
   ```
 
 ## OUPUT
-![table](./Capture.png)
+## Html validator:
+![output](./Validator.png)
+## Timetable:
+![image](./Table.png)
 
 ## RESULT
 ### To display the timetable using html is executed successfully.
